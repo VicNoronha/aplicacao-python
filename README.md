@@ -1,1 +1,2 @@
 # aplicacao-python
+O projeto desenvolvido a partir do curso de python da alura e nele aprendemos funções, usar coisas prontas de outros lugares (import), ajeitar os tipos de variáveis e a lidar com erros pra o programa não travar. Nesse curso também aprendemos a usar listas e dicionários pra guardar e mexer com os dados de um jeito mais organizado, pra fazer um sistema de cadastro de restaurante. Além de estruturas de repetição e a importância das docstrings.
